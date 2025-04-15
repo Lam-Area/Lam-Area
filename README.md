@@ -8,3 +8,10 @@
 </p>
 
 <p align="left"> 
+
+
+<hr>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1248433564685701120/1361541641164292147/ban.gif?ex=67ff21f7&is=67fdd077&hm=db3993d14024247c5bef1ffd10ef3d363d935af6c1768ec948ff943dc5b7d575&" alt="ban gif" />
+</p>
