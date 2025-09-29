@@ -1,5 +1,5 @@
 <h1 align="center">Simplement Lam 💭​</h1>
-<h3 align="center">Cybersécurité, Développement, j'aime</h3>
+<h3 align="center">Réseaux, Programmation, j'aime</h3>
 
 <img align="right" width="340" alt="fun-gif" src="https://cdn.discordapp.com/emojis/1410396506132840458.webp?size=96&animated=true">
 <br />
